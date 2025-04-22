@@ -63,7 +63,7 @@
 
 如果您对我们的服务感兴趣，或者想了解更多关于源码的信息，欢迎通过以下方式联系我们：
 
-- **Telegram**：[ProgrammingDesign123](https://t.me/programGraduator)
+- **Telegram**：[ProgramGraduator](https://t.me/programGraduator)
 
 如果有条件的话，尽量不通过微信、QQ联系，这样对你是最好的！别看人家微信聊得欢，都是实名的，哪怕概率很低但一旦出事，您还没毕业，一辈子完了。
 
